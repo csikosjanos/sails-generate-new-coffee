@@ -1,0 +1,36 @@
+{
+  "name": "sails-generate-new",
+  "version": "0.10.14",
+  "description": "Generate a new Sails app.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "controller",
+    "generator",
+    "sails",
+    "generate",
+    "plugin"
+  ],
+  "author": "balderdashy",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": ">=2.4.x",
+    "merge-defaults": ">=0.1.0",
+    "async": "~0.2.9"
+  },
+  "devDependencies": {
+    "sails-generate": "*",
+    "reportback": "*",
+    "fs-extra": "*",
+    "sails-generate-backend": "~0.10.1",
+    "sails-generate-frontend": "~0.10.1",
+    "sails-generate-gruntfile": "~0.10.2"
+  },
+  "sailsGenerator": {
+    "type": "new",
+    "behavior": "default implementation of `sails new`",
+    "sailsVersion": "~0.10.0"
+  }
+}
