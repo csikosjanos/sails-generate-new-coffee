@@ -6,10 +6,10 @@
 The latest stable version in npm is always a safe bet.
 
 ```sh
-$ npm install sails-generate-new
+$ npm install sails-generate-new-coffee
 ```
 
-[![NPM](https://nodei.co/npm/.png?downloads=true&stars=true)](https://nodei.co/npm/sails-generate-new/)
+[![NPM](https://nodei.co/npm/.png?downloads=true&stars=true)](https://nodei.co/npm/sails-generate-new-coffee/)
 
 
 
@@ -78,4 +78,4 @@ If you feel that yours is the better approach, and should be the default, share 
 
 
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/8acf2fc2ca0aca8a3018e355ad776ed7 "githalytics.com")](http://githalytics.com/balderdashy/sails-generate-new/FAQ.md)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/18e8b6436675147f29e353e2dd544014 "githalytics.com")](http://githalytics.com/csikosjanos/sails-generate-new-coffee)

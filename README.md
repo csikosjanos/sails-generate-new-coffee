@@ -33,3 +33,5 @@ See `CONTRIBUTING.md`.
 
 See `LICENSE.md`.
 
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/18e8b6436675147f29e353e2dd544014 "githalytics.com")](http://githalytics.com/csikosjanos/sails-generate-new-coffee)
