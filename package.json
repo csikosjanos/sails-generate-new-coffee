@@ -1,6 +1,6 @@
 {
   "name": "sails-generate-new-coffee",
-  "version": "0.10.14",
+  "version": "0.4",
   "description": "Generate a new Sails app in CoffeeScript.",
   "main": "lib/index.js",
   "scripts": {
