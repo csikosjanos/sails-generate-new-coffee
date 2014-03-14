@@ -1,7 +1,7 @@
 {
-  "name": "sails-generate-new",
+  "name": "sails-generate-new-coffee",
   "version": "0.10.14",
-  "description": "Generate a new Sails app.",
+  "description": "Generate a new Sails app in CoffeeScript.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
@@ -11,9 +11,10 @@
     "generator",
     "sails",
     "generate",
-    "plugin"
+    "plugin",
+    "coffeescript"
   ],
-  "author": "balderdashy",
+  "author": "csikosjanos",
   "license": "MIT",
   "dependencies": {
     "lodash": ">=2.4.x",
@@ -30,7 +31,7 @@
   },
   "sailsGenerator": {
     "type": "new",
-    "behavior": "default implementation of `sails new`",
+    "behavior": "modified implementation of `sails new`",
     "sailsVersion": "~0.10.0"
   }
 }
