@@ -25,9 +25,9 @@
     "sails-generate": "*",
     "reportback": "*",
     "fs-extra": "*",
-    "sails-generate-backend": "~0.10.1",
-    "sails-generate-frontend": "~0.10.1",
-    "sails-generate-gruntfile": "~0.10.2"
+    "sails-generate-backend-coffee": "~0.10.1",
+    "sails-generate-frontend-coffee": "~0.10.1",
+    "sails-generate-gruntfile-coffee": "~0.10.2"
   },
   "sailsGenerator": {
     "type": "new",
